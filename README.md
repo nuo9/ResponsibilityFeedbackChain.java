@@ -5,8 +5,7 @@ This is a tiny framework for acquiring a result from a Responsibility Chain.
 After acquiring the result without errors, it can feed the result back to previous Chain Members.
 
 ### Internal Logic 
-    // todo
-    // To difficult for me to draw a graph
+![image](https://raw.githubusercontent.com/nuo9/ResponsibilityFeedbackChain.go/master/docs/rfchain.gif)
 
 ### Installation
     // just copy my code to your project!
